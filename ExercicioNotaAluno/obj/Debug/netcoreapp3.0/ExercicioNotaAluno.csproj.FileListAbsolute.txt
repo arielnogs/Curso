@@ -1,0 +1,11 @@
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.exe
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.deps.json
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.runtimeconfig.json
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.runtimeconfig.dev.json
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.dll
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.0\ExercicioNotaAluno.pdb
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.0\ExercicioNotaAluno.csprojAssemblyReference.cache
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.0\ExercicioNotaAluno.AssemblyInfoInputs.cache
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.0\ExercicioNotaAluno.AssemblyInfo.cs
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.0\ExercicioNotaAluno.dll
+D:\Ariel\Desktop\Curso C#\Projetos\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.0\ExercicioNotaAluno.pdb
