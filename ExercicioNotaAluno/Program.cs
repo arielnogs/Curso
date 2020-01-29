@@ -12,7 +12,7 @@ namespace ExercicioNotaAluno
             Console.Write("Nome do Aluno: ");
             A.Nome = Console.ReadLine();
 
-            Console.WriteLine("Digite as três notas do aluno: ");
+            Console.WriteLine("Digite as rês notas do aluno: ");
             A.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             A.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             A.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
